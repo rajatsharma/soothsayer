@@ -1,4 +1,4 @@
-module Soothsayer where
+module Soothsayer ((***)) where
 
 import Data.List (intercalate, isPrefixOf)
 
