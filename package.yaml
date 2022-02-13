@@ -20,7 +20,6 @@ description:         Please see the README on GitHub at <https://github.com/raja
 
 dependencies:
 - base >= 4.7 && < 5
-- text-format-simple
 
 library:
   source-dirs: src
